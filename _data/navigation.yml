@@ -4,10 +4,10 @@ main:
   #  url: /publications/
 
   - title: "Talks"
-    url: /talks/2022-12-05-UNDColl    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/UNDSpSt200    
     
   #- title: "Portfolio"
   #  url: /portfolio/
