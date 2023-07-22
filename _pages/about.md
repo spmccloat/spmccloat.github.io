@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-<h1>[2023 Sagan Summer Workshop Poster]</h1>(https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat-SSW2023-Poster-vF.pdf)
+<h1>[2023 Sagan Summer Workshop Poster](https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat-SSW2023-Poster-vF.pdf)</h1>
 
 Contact: spmccloat "at" gmail
 
-<h2>Ph.D. 2018 - current</h2><br>
-<h3>Aerospace Sciences (Space Studies), University of North Dakota<h3><br>
+<h2>Ph.D. 2018 - current</h2>
+<h3>Aerospace Sciences (Space Studies), University of North Dakota</h3>
 Dissertation: Planetary System Architecture and Composition from Pebble Accretion<br>
 Advisors: Dr. Sherry Fieber-Beyer; Dr. Gijs Mulders<br>
 
@@ -23,10 +23,10 @@ Thesis: [Transit Photometry of Recently Discovered Hot Jupiters](https://github.
 Advisors: Dr. Mike Gaffey; Dr. Carolina von Essen
 
 <h2>BA 2013</h2>
-Philosophy, Biology, Environmental Studies, SUNY Geneseo
+Philosophy, Biology, Environmental Studies, SUNY Geneseo<br>
 
 
-I am finishing up my dissertation from the University of North Dakota Space Studies department while living in Ithaca, NY with my partner. I am passionate science communicator with years of experience:  
+I am finishing up my dissertation from the University of North Dakota Space Studies department while living in Ithaca, NY with my partner. I am passionate science communicator with years of experience:     
 - developing astronomy labs for undergraduate students (SUNY Geneseo),  
 - crafting and delivering planetarium shows to large, diverse audiences (Suffolk County Vanderbilt Museum),  
 - teaching several semesters of 200-level science courses (UND Space Studies),  

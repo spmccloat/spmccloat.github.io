@@ -1,5 +1,5 @@
 ---
-title: "NASAA ExoExplorers: Modeling the Architecture and Composition of Exoplanetary Systems from Pebble Accretion"
+title: "NASA ExoExplorers: Modeling the Architecture and Composition of Exoplanetary Systems from Pebble Accretion"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-01-20_ExoExp
