@@ -8,17 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-# [2023 Sagan Summer Workshop Poster](https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat-SSW2023-Poster-vF.pdf)
+[2023 Sagan Summer Workshop Poster](https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat-SSW2023-Poster-vF.pdf)
 
 Contact: spmccloat "at" gmail
 
 ## Ph.D. 2018 - current
-## Aerospace Sciences (Space Studies), University of North Dakota
+Aerospace Sciences (Space Studies), University of North Dakota
 Dissertation: Planetary System Architecture and Composition from Pebble Accretion<br>
 Advisors: Dr. Sherry Fieber-Beyer; Dr. Gijs Mulders<br>
 
 ## MS 2017
-## Space Studies, University of North Dakota
+Space Studies, University of North Dakota
 Thesis: [Transit Photometry of Recently Discovered Hot Jupiters](https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat_MS-Thesis.pdf) <br>
 Advisors: Dr. Mike Gaffey; Dr. Carolina von Essen
 
