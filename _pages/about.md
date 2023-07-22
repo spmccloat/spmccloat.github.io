@@ -9,21 +9,21 @@ redirect_from:
 ---
 
 [2023 Sagan Summer Workshop Poster](https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat-SSW2023-Poster-vF.pdf)
-
+<a href="https://spmccloat.github.io/files/McCloat-SSW2023-Poster-vF.pdf" target="_blank">PDF.</a>
 Contact: spmccloat "at" gmail
 
-## Ph.D. 2018 - current
-Aerospace Sciences (Space Studies), University of North Dakota
+### Ph.D. 2018 - current
+Aerospace Sciences (Space Studies), University of North Dakota<br>
 Dissertation: Planetary System Architecture and Composition from Pebble Accretion<br>
 Advisors: Dr. Sherry Fieber-Beyer; Dr. Gijs Mulders<br>
 
-## MS 2017
-Space Studies, University of North Dakota
+### MS 2017
+Space Studies, University of North Dakota<br>
 Thesis: [Transit Photometry of Recently Discovered Hot Jupiters](https://github.com/spmccloat/spmccloat.github.io/blob/master/files/McCloat_MS-Thesis.pdf) <br>
 Advisors: Dr. Mike Gaffey; Dr. Carolina von Essen
 
-## BA 2013
-## Philosophy, Biology, Environmental Studies, SUNY Geneseo
+### BA 2013
+Philosophy, Biology, Environmental Studies, SUNY Geneseo
 
 ### Science Communication
 I am finishing up my dissertation from the University of North Dakota Space Studies department while living in Ithaca, NY with my partner. I am passionate science communicator with years of experience:     
