@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://spmccloat.github.io/files/McCloat-SSW2023-Poster-vF.pdf" target="2023 Sagan Summer Workshop Poster">PDF.</a> <br>
+<a href="https://spmccloat.github.io/files/McCloat-SSW2023-Poster-vF.pdf" target="_blank">2023 Sagan Summer Workshop Poster, PDF.</a> <br>
 Contact: spmccloat "at" gmail
 
 ### Ph.D. 2018 - current
