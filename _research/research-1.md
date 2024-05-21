@@ -1,6 +1,7 @@
 ---
 title: "The PPOLs Model"
 permalink: /research/research-1/
+collection: research
 ---
 
 The PPOLs Model is a combination of two prior models of pebble accretion: pebble-predictor by Drazkowska et al. 2021, and the pebble accretion recipes from Ormel & Liu (2018) and Liu & Ormel (2018). The name plays off of combineing "PP" for pebble-predictor and "OL" for Ormel & Liu. 
