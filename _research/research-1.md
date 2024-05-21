@@ -4,7 +4,7 @@ collection: research
 type: "Dissertation"
 permalink: /research/research-1
 venue: "University of North Dakota, Department of Space Studies"
-date: 2024-05
+date: 2024-05-20
 location: "Grand Forks, North Dakota"
 ---
 
